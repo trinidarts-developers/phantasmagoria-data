@@ -1,0 +1,112 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @author trinidarts developers
+# @date 2017/11/19
+#
+# @columns de|en|ja
+#
+#---------------------------------------
+
+# P.1
+Der Vater|Father|父親
+Die Mutter|Mother|母親
+Die Eltern|Parents|両親
+Der Sohn|Son|息子
+Die Tochter|Daughter|娘
+Das Kind|Child|子供
+Der Bruder|Brother |兄, 弟
+Die Schwester|Sister|姉, 妹
+Die Familie|Family|家族
+Der Onkel|Uncle|おじ
+Die Tante|Aunt|おば
+Das Buch|Book|本
+Das Heft|Notebook|ノート
+Der Bleistift|Pen|鉛筆
+
+# P.2
+Das Haus|Hause|家
+Der Garten|Garden|庭
+Das Wetter|Weather|天気
+alt|old|年とった, 古い
+jung|young|若い
+neu|new|新しい
+groß|big|大きい
+klein|small|小さい
+gut|good|良い
+schlecht|bad|悪い
+fleißig|conscientious, hardworking|勤勉な
+faul|lazy|怠惰な
+gesund|healthy|健康な
+krank|sick|病気の
+
+# P.3
+wer, wessen, wern, wen|who|だれ
+was|what|何
+welcher|which|どちらの, どの
+wann|when|いつ
+wo|where|どこ
+woher|from where|どこから
+wohin|to where|どこへ
+warum|why|なぜ
+wie|how|どのように
+wieviel|how many, how much|いくつ, どれくらい
+sein|be|です。
+Das Buch ist neu.|The book is new.|その本は新しいです。
+haben|have|持っている
+werden|become|になる。
+Das Haus wird alt.| The hause becomes old.|家が古くなる。
+
+# P.4
+gehen|go|行く。
+Wohin gehest du?|Where do you go?|どこへ行くのですか？
+kommen|come|来る。
+Wann Kommen Sie?|When do you come?|あなたはいつ来ますか？
+kaufen|buy|買う。
+Welches Buch kauft er|Which book does he buy?|彼はどの本を買いますか？
+lieben|love|愛する
+Wen liebt sie?|Who does she love?|彼女はだれを愛していますか？
+rauchen|smoke|喫煙する, タバコを吸う
+Warum rauchen Sie nicht?|Why don't you smoke|なぜ喫煙しないのですか？
+trinken|drink|飲む
+Was trinkst du?|What do you drink?|君は何を飲みますか？
+wohnen|live in|住む
+Wo wohnen Sie?|Where do you live?|あなたはどこに住んでいますか？
+ja|yes|はい
+Ist er fleißig? Ja, er ist fleißig.|Is he hardworking? Yes, he is hardworking.|彼は勤勉ですか？はい、彼は勤勉です。
+nein|no|いいえ
+Ist sie faul? Nein, sie ist nicht faul.|Is she lazy? No, she is not lazy.|彼女は怠けものですか？いいえ、彼女は怠けものではありません。
+nicht|not|ではない
+Warum kommt er nicht?|Why does not he come?|なぜ彼は来ないのですか？
+
+## P.5
+nur|only|ただ〜だけ
+Wir haben nur ein Kind.|We have only a child.|私達にはただ一人の子供しかいません。
+auch|also|〜もまた
+Er ist krank. Sie ist auch krank.|He is sick. She is also sick.|彼は病気です。彼女もまた病気です。
+noch|still|まだ
+Sie ist noch jung.|She is still young.|彼女はまだ若い。
+schon|already|すでに
+Ich bin schon alt.|I'm already old|私はもう年寄りです。
+sehr|very|非常に, たいへん
+Ihr seid noch sehr jung.|You are still very young.|きみたちはまだたいへん若い。
+ich bin|I am|私は
+du bist|you are|君は
+er ist|he is|彼は
+wir sind|we are|私たちは
+ihr seid|you are|あなたは
+sie sind|you are|あなたは
+ich habe|I have|私は持っている
+du hast|you have|君は持っている
+er hat|he has|彼は持っている
+wir haben|we have|私たちは持っている
+ihr habt|you have|あなたたちは持っている
+sie haben|you have|あなたは持っている
+ich werde|I become|私は〜になる
+du wirst|you become|君は〜になる
+er wird|he becomes|彼は〜になる
+wir werden|we become|私たちは〜になる
+ihr werdet|you become|あなたたちは〜になる
+sie werden|you become|あなたは〜になる
+
