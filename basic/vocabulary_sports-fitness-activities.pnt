@@ -1,0 +1,38 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @reference http://www.eflnet.com/vocab/dictionary/sports-fitness-activities-list
+# @author trinidarts developers
+# @date 2018/01/06
+#
+# @columns en|img  
+#
+#---------------------------------------
+
+
+box|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/101x150xbox.png,qitok=j2GtgKM1.pagespeed.ic.zqNRwx4ftQ.jpg
+do pushups|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x101xdo_pushups.png,qitok=fHiQWD2E.pagespeed.ic.4zexW3B9Fy.jpg
+do sit-ups|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x106xdo_sit-ups.png,qitok=Hwdczdsf.pagespeed.ic.fs-jdKHxDT.jpg
+do yoga|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/158x150xdo_yoga.png,qitok=JsTqVDtL.pagespeed.ic.v2mUt95Xz4.jpg
+jog|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/88x150xjog.png,qitok=Sn3R2pnP.pagespeed.ic.caPZ0yP2NZ.jpg
+jump|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/125x150xjump.png,qitok=BPvRyeGs.pagespeed.ic.i_wfQOie7a.jpg
+kick|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/131x150xkick.png,qitok=bvV13-Am.pagespeed.ic.8YM6tObO1s.jpg
+lift weights|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/143x150xlift_weights.png,qitok=jq_s4Jwu.pagespeed.ic.H9Vd7Uvzpq.jpg
+play baseball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x143xplay_baseball.png,qitok=68EkqB_X.pagespeed.ic.JV0IVOULIB.jpg
+play football|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/80x150xplay_football.png,qitok=zfloMMqm.pagespeed.ic.HG-jKgC5yf.jpg
+play golf|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/59x150xplay_golf.png,qitok=IgPFfqcB.pagespeed.ic.VEdRRnqHC6.jpg
+play golf|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/59x150xplay_golf_0.png,qitok=AMF9DxsE.pagespeed.ic.VEdRRnqHC6.jpg
+play hockey|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/128x150xplay_hockey.png,qitok=UFqOe4ja.pagespeed.ic.lHaH20FTz1.jpg
+play soccer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/102x150xplay_soccer.png,qitok=bqOfPwsi.pagespeed.ic.IOO3SPeoXy.jpg
+play tennis|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/95x150xplay_tennis.png,qitok=vH7fMYBm.pagespeed.ic.rs-7gkkpjy.jpg
+play volleyball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/70x108xplay_volleyball.png,qitok=HT2mwzkh.pagespeed.ic.KVis1mdRL7.jpg
+ride a bicycle|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/118x150xride_a_bicycle.png,qitok=4lOEljqa.pagespeed.ic.SzzaYY74zg.jpg
+ride a skateboard|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/139x150xride_a_skateboard.png,qitok=ReGqFu1W.pagespeed.ic.ihy-0C-A68.jpg
+rollerblade|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/70x150xrollerblade.png,qitok=0X-DPNEE.pagespeed.ic.WFIU1TwfW7.jpg
+run|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/141x150xrun.png,qitok=DRyyM2jr.pagespeed.ic.U857I4ip6-.jpg
+ski|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/137x150xski.png,qitok=yiFDExDD.pagespeed.ic.iVlNAeoGNk.jpg
+snowboard|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/82x150xsnowboard.png,qitok=TJqmnFLg.pagespeed.ic.dr8yJBOrPz.jpg
+stretch|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x144xstretch.png,qitok=nix-LTsO.pagespeed.ic.cnXds4a4Se.jpg
+surf|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x110xsurf.png,qitok=Am5nNOt-.pagespeed.ic.aFV7mOiZLN.jpg
+swim|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x49xswim.png,qitok=Si64wy3y.pagespeed.ic.AHcwEN_SeF.jpg

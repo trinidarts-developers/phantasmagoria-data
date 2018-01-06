@@ -1,0 +1,40 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @reference http://www.eflnet.com/vocab/dictionary/animals-list
+# @author trinidarts developers
+# @date 2018/01/06
+#
+# @columns en|img  
+#
+#---------------------------------------
+
+
+antelope|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/153x144xantelope.png,qitok=9U6sY_wo.pagespeed.ic.zKp3PvEzky.jpg
+baboon|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/86x108xbaboon.png,qitok=p7TIVWDH.pagespeed.ic.Z2UZIfM9CW.jpg
+bear|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/143x108xbear.png,qitok=dkbTrb1B.pagespeed.ic.r3b43a4c3Q.jpg
+beaver|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/108x144xbeaver.png,qitok=5mHoLRLD.pagespeed.ic._1T2uXwZ40.jpg
+bobcat|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x144xbobcat.png,qitok=3lSOJinU.pagespeed.ic.F1EX7sdVzG.jpg
+camel|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/115x108xcamel.png,qitok=aifJ7IJW.pagespeed.ic.53eguN1ZhF.jpg
+caribou|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/144x144xcaribou.png,qitok=UTgCpq8q.pagespeed.ic.hJmomRWdKF.jpg
+cat|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x141xcat.png,qitok=uPLkcuGt.pagespeed.ic.xMOVZtcMEh.jpg
+deer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/122x108xdeer.png,qitok=yU8xPWMn.pagespeed.ic.cyNROpeTWs.jpg
+dog|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/dog.png?itok=YKw9yRfd
+elephant|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/elephant.png?itok=G2n7Q4rx
+ferret|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/ferret.png?itok=OdRGqU59
+giraffe|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/giraffe.png?itok=wJN2Nux0
+groundhog|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/groundhog.png?itok=4WIHvix2
+hippopotamus|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/hippopotamus.png?itok=5EXIkMFo
+kangaroo|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/kangaroo.png?itok=k_H6Gdtf
+lemur|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/lemur.png?itok=xSFxKYXG
+leopard|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/leopard.png?itok=NbFgM2zO
+lion|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/lion.png?itok=-OiHdyrO
+monkey|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/monkey.png?itok=pBXiID5R
+mountain goat|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/mountain_goat.png?itok=C1s-9Vc8
+mountain lion|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/mountain_lion.png?itok=EizZe7sU
+polar bear|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/polar_bear.png?itok=uT1XTVit
+rabbit|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/rabbit.png?itok=mV2e_fvR
+rhinoceros|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/rhinoceros.png?itok=g7P-LJZq
+tiger|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/tiger.png?itok=w8XMwXVE
+zebra|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/zebra.png?itok=EeXSKVgS

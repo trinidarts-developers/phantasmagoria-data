@@ -1,0 +1,31 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @reference http://www.eflnet.com/vocab/dictionary/containers-list
+# @author trinidarts developers
+# @date 2018/01/06
+#
+# @columns en|img  
+#
+#---------------------------------------
+
+
+bag|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xbag.png,qitok=nMGoMl0u.pagespeed.ic.wxOVggANFM.png
+basket|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xbasket.png,qitok=CUDm1DOo.pagespeed.ic.rw5zOSgKxs.png
+bottle|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xbottle.png,qitok=9ZzbYrN8.pagespeed.ic.P7fCRSDUaN.png
+box|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xbox_0.png,qitok=LmLttTaJ.pagespeed.ic.W513GfQ8jI.png
+|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xbucket_0.png,qitok=MoI1Yytz.pagespeed.ic.rO68QKylpM.png
+can|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xcan.png,qitok=4-9sF2YZ.pagespeed.ic.9l4lUPqNDh.png
+canteen|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xcanteen.png,qitok=U-zn8LPt.pagespeed.ic.BmCBHJiUTj.png
+carton|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xcarton.png,qitok=nQWXj1AQ.pagespeed.ic.Rk2cX0E58B.png
+chest|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xchest.png,qitok=05VelSKT.pagespeed.ic.NG7VFUWvsG.png
+crate|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xcrate.png,qitok=rbS0uC-W.pagespeed.ic.M_0hmKUmds.png
+envelope|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xenvelope.png,qitok=DeEcZ-9Z.pagespeed.ic.xtVB9aD2Y1.png
+flask|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xflask.png,qitok=HHj7NhTq.pagespeed.ic.oaYyY9lQn6.png
+glass|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xglass.png,qitok=fctVYVKs.pagespeed.ic.HQSNIuR4Uv.png
+jar|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xjar.png,qitok=1WoYFEl6.pagespeed.ic.h_GtxRU0fK.png
+jug|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xjug.png,qitok=qbTGs6Jp.pagespeed.ic.aXGTywBkB8.png
+pitcher|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xpitcher.png,qitok=u2bG1b4J.pagespeed.ic.dJ8bNMP9O3.png
+purse|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xpurse.png,qitok=RhQvCqsw.pagespeed.ic.lzaAe6LwzP.png
+wallet|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x190xwallet.png,qitok=PMHJccW9.pagespeed.ic.teJWAk7awu.png

@@ -1,0 +1,26 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @reference http://www.eflnet.com/vocab/dictionary/clothing-list
+# @author trinidarts developers
+# @date 2018/01/06
+#
+# @columns en|img  
+#
+#---------------------------------------
+
+
+belt|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/150x101xbelt.png,qitok=GguWNeqI.pagespeed.ic.OiDq5CcnDD.jpg
+blouse|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/135x108xblouse.png,qitok=vV4baDTt.pagespeed.ic.QIFW_ImYNi.jpg
+dress|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/60x150xdress.png,qitok=Dl7U1UPi.pagespeed.ic.F70Ztnu9gz.jpg
+jacket|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/108x113xjacket.png,qitok=-NVdDfeW.pagespeed.ic.GeGcgt25sb.jpg
+sandals|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/144x108xsandals.png,qitok=j2EZjaCc.pagespeed.ic.vZIxwT8GjX.jpg
+shirt|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/143x108xshirt.png,qitok=MFs750q_.pagespeed.ic.Stct1D539n.jpg
+shoes|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/134x108xshoes.png,qitok=0PgwpZuS.pagespeed.ic.K5oTW2HWGC.jpg
+shorts|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/108x115xshorts.png,qitok=XIPeqChV.pagespeed.ic.Vla48I1xVE.jpg
+sneakers|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/145x108xsneakers.png,qitok=Q4avNs5R.pagespeed.ic.otOorkHunW.jpg
+socks|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/150x71xsocks.png,qitok=U51FNWnR.pagespeed.ic.1BvVyZS6Qg.jpg
+sweater|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/156x108xsweater.png,qitok=cVwOl86t.pagespeed.ic.4xFNQ4i-s4.jpg
+t-shirt|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/108x138xt-shirt.png,qitok=Fy4ebG_4.pagespeed.ic.64PZM48ErK.jpg
+tie|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/42x150xtie.png,qitok=1WKDD9ik.pagespeed.ic.dBbU6z85Sp.jpg

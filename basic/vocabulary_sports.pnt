@@ -1,0 +1,51 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @reference http://www.eflnet.com/vocab/dictionary/sports-list
+# @author trinidarts developers
+# @date 2018/01/06
+#
+# @columns en|img  
+#
+#---------------------------------------
+
+
+baseball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/143x144xbaseball.png,qitok=wBTKLbDH.pagespeed.ic.ashynMZP6u.jpg
+baseball glove|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/135x144xbaseball_glove.png,qitok=0HeKkHvx.pagespeed.ic.xeWfbOxywh.jpg
+baseball player|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/127x108xbaseball_player.png,qitok=j-CNw5tz.pagespeed.ic.8zlke0HIEu.jpg
+basketball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/107x108xbasketball.png,qitok=-lhbT2Q-.pagespeed.ic.TFIb6gspPA.jpg
+basketball player|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/60x108xbasketball_player.png,qitok=6YYjw3wF.pagespeed.ic.wNSD8IY_DP.jpg
+bowler|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/113x144xbowler.png,qitok=gBuRYW6A.pagespeed.ic.bI1_IhxJa_.jpg
+bowling ball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/147x115xbowlingball_dic.jpg,qitok=GntyfXOv.pagespeed.ic.OmzHNweDQ4.jpg
+bowling pins|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/140x108xbowling_pins.png,qitok=YSX7P2u4.pagespeed.ic.ySwgU5VdMl.jpg
+boxer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/73x108xboxer.png,qitok=uq6ltpMR.pagespeed.ic.0NvrW0Ic2G.jpg
+boxing gloves|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/125x108xboxing_gloves.png,qitok=uZZL3qw4.pagespeed.ic.kfBU7rn2j7.jpg
+cyclist|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/40x108xcyclist.png,qitok=0XIaEkbr.pagespeed.ic.h2ypR55S90.jpg
+football|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/62x108xfootball.png,qitok=vGswrst1.pagespeed.ic.THiSEz0Apy.jpg
+football helmet|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/146x144xfootball_helmet.png,qitok=zMxpVx46.pagespeed.ic.ntdj2lSQyw.jpg
+golf ball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/107x108xgolf_ball.png,qitok=vh9o1s6j.pagespeed.ic.3T-sGCv7Xn.jpg
+golf club|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/145x150xgolf_club.png,qitok=2u6N3FDr.pagespeed.ic.6c19cRzUTt.png
+golfer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/54x108xgolfer.png,qitok=WtQaOg8K.pagespeed.ic.R4crHu8BTN.jpg
+gymnast|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/73x108xgymnast.png,qitok=UzMGtEZ1.pagespeed.ic.RDV9BFbocW.jpg
+hockey player|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/118x108xhockey_player.png,qitok=B-haIS0E.pagespeed.ic.ublJWkylWA.jpg
+hockey skates|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/90x108xhockey_skates.png,qitok=-jRvvLl8.pagespeed.ic.7ylY1QuHks.jpg
+inline skate|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/131x108xinline_skate.png,qitok=9rAatxG5.pagespeed.ic.mRg_l_l0EJ.jpg
+inline skater|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/59x108xinline_skater.png,qitok=dma49xnC.pagespeed.ic.q2srD7-64O.jpg
+scuba diver|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/69x144xscuba_diver.png,qitok=6x0U5vGs.pagespeed.ic.6VwHiYf0NQ.jpg
+skateboard|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/91x144xskateboard.png,qitok=q_mrh7WK.pagespeed.ic.9DXpg5Ndyu.jpg
+skateboarder|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/165x148xskateboarder.png,qitok=wamPs_cl.pagespeed.ic.jaAwm_CGX-.png
+skier|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/56x108xskier.png,qitok=2IndVPas.pagespeed.ic.ofDIdW08A1.jpg
+snowboard|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/104x144xsnowboard_0.png,qitok=btRQzz4H.pagespeed.ic.AEG8ai6Q6N.jpg
+snowboarder|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/103x108xsnowboarder.png,qitok=UCnOEVio.pagespeed.ic.LXcak6_xnK.jpg
+soccer ball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/107x108xsoccer_ball.png,qitok=Ex_I12wS.pagespeed.ic.s9W_oytX99.jpg
+soccer player|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/58x108xsoccer_player.png,qitok=CAakfbEQ.pagespeed.ic._pr0tR4Vp_.jpg
+surfboard|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/23x108xsurfboard.png,qitok=SIfl-HaJ.pagespeed.ic.tgbE7EtPqZ.jpg
+surfer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/42x108xsurfer.png,qitok=MMmi4lu3.pagespeed.ic.1l7xeOgMZv.jpg
+swimmer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/swimmer.png?itok=VGEcdxV0
+tennis ball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/tennis_ball.png?itok=01OG-sfB
+tennis player|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/tennis_player.png?itok=5l8Sgsbx
+tennis racket|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/tennis_racket.png?itok=VC-m1kJp
+volleyball|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/volleyball.png?itok=CgcGxFg7
+volleyball player|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/volleyball_player.png?itok=g6MrVPmK
+weight lifter|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/MANWEI15.jpg?itok=WK4wgFv4

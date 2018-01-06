@@ -1,0 +1,33 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @reference http://www.eflnet.com/vocab/dictionary/furniture-appliances-list
+# @author trinidarts developers
+# @date 2018/01/06
+#
+# @columns en|img  
+#
+#---------------------------------------
+
+
+armchair|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/86x108xarmchair.png,qitok=ovLEfZJn.pagespeed.ic.Aiz286CV_o.jpg
+bathtub|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/183x108xbathtub.png,qitok=EqOMNVTp.pagespeed.ic.l7f88HGtP_.jpg
+bed|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/106x108xbed.png,qitok=hMqRRmEY.pagespeed.ic.s7gP0PaInG.jpg
+blender|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/53x125xblender.png,qitok=CtJZnIse.pagespeed.ic.uLa3kLw_HF.jpg
+chair|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/59x108xchair.png,qitok=Jvkag4cG.pagespeed.ic.Wv6uAUD0Bg.jpg
+coffee table|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x102xcoffee_table.png,qitok=DDwxhR2z.pagespeed.ic.iWCw39Erwu.jpg
+dishwasher|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/106x108xdishwasher.png,qitok=DIIO0hoj.pagespeed.ic.axaEuRLvhA.jpg
+dresser|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/139x108xdresser.png,qitok=a_WfCMuy.pagespeed.ic.5ZbgaXhT8V.jpg
+dryer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/77x108xdryer.png,qitok=8Ht2GkYD.pagespeed.ic.WBJESr17m0.jpg
+lamp|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/66x108xlamp.png,qitok=NiyRUr4e.pagespeed.ic.KxXokWBlNg.jpg
+microwave oven|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/136x108xmicrowave.png,qitok=TkUcEvQ7.pagespeed.ic.Xmgl5ixx88.jpg
+refrigerator|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/91x108xrefrigerator.png,qitok=i_SZjkm0.pagespeed.ic.n37RmKapfQ.jpg
+rug|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x101xrug.png,qitok=ah_5oQF2.pagespeed.ic.5ajnDoyvCj.jpg
+sofa|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x73xsofa.png,qitok=O0CKb8Vx.pagespeed.ic.icVvtgiYpp.jpg
+stove|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/83x108xstove.png,qitok=wU5_OH8U.pagespeed.ic.-V1olf8kr-.jpg
+table|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/168x108xtable.png,qitok=YKPyPmKh.pagespeed.ic.JjMCjN9dgf.jpg
+television|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/129x108xtelevision.png,qitok=0cFUUR9R.pagespeed.ic.uVJwo6rQCQ.jpg
+toaster|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/92x108xtoaster.png,qitok=mBlsjX2Z.pagespeed.ic.byvjK0NNAh.jpg
+toilet|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/57x108xtoilet.png,qitok=mvub0w0g.pagespeed.ic.Soqbt4w8Ou.jpg
+washer|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/75x108xwasher.png,qitok=n3dRZTBJ.pagespeed.ic.NwnWVCi8C4.jpg
