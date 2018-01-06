@@ -1,0 +1,32 @@
+#---------------------------------------
+#
+# Phantasmagoria data
+#
+# @reference http://www.eflnet.com/vocab/dictionary/insects-list
+# @author trinidarts developers
+# @date 2018/01/06
+#
+# @columns en|img  
+#
+#---------------------------------------
+
+
+bee|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x127xbee.jpg,qitok=i9xvgSop.pagespeed.ic.if_LctYl4S.jpg
+beetle|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/84x108xbeetle.png,qitok=rp6O9FZP.pagespeed.ic.g9sRszPPy0.jpg
+butterfly|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x114xbutterfly.png,qitok=FAM_IgLY.pagespeed.ic.Th1CTJAL-0.jpg
+caterpillar|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x126xcaterpillar.png,qitok=eFRAYZLw.pagespeed.ic.1KgoL8ETZp.jpg
+centipede|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x121xcentipede.png,qitok=2QZBjYTE.pagespeed.ic.8Zty_tnPMU.jpg
+cicada|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/159x108xcicada.png,qitok=eM3NnWJG.pagespeed.ic.zvE3XinNO-.jpg
+cockroach|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x135xcockroach.png,qitok=jqqylCs3.pagespeed.ic.OPLCT4UdTI.jpg
+cricket|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/105x150xcricket.png,qitok=Vb7TO1TX.pagespeed.ic.rOcn_7Qqxq.jpg
+dragonfly|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/130x108xdragonfly.png,qitok=gbfkhdHW.pagespeed.ic.0G8kVG-4dx.jpg
+fly|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x127xfly.jpg,qitok=R2TCNP5m.pagespeed.ic.PJaSU_Nj1p.jpg
+grasshopper|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x95xgrasshopper.png,qitok=Xa5g53hH.pagespeed.ic.Gsg8BRp6Bt.jpg
+ladybugs|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/182x144xladybugs.png,qitok=82fpKVE_.pagespeed.ic.OkZ5yHVTsQ.jpg
+millipede|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/172x144xmillipede.png,qitok=7wTJeBlQ.pagespeed.ic.wMJEyHOAov.jpg
+praying mantis|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/55x144xpraying_mantis.png,qitok=kKlUvLED.pagespeed.ic.t2hY-37wQ0.jpg
+scorpion|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/178x144xscorpion.png,qitok=lvde22w-.pagespeed.ic.Kxmj1qUR1v.jpg
+spider|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/128x108xspider.png,qitok=GyoxYiRC.pagespeed.ic.fGySwK0UBE.jpg
+tarantula|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/114x108xtarantula.png,qitok=s5dF_z1P.pagespeed.ic.8Nveusn2b-.jpg
+walking stick|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x105xwalking_stick.png,qitok=u6azOcJO.pagespeed.ic.RnrOw5HmCK.jpg
+wasp|http://www.eflnet.com/sites/default/files/styles/vocab_pic/public/190x136xwasp.png,qitok=1Rjct4P0.pagespeed.ic.29Huk375Ei.jpg
